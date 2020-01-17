@@ -1,0 +1,6 @@
+C:\Users\HFGF\source\repos\Lommeregner\Lommeregner\bin\Debug\Lommeregner.exe.config
+C:\Users\HFGF\source\repos\Lommeregner\Lommeregner\bin\Debug\Lommeregner.exe
+C:\Users\HFGF\source\repos\Lommeregner\Lommeregner\bin\Debug\Lommeregner.pdb
+C:\Users\HFGF\source\repos\Lommeregner\Lommeregner\obj\Debug\Lommeregner.csprojAssemblyReference.cache
+C:\Users\HFGF\source\repos\Lommeregner\Lommeregner\obj\Debug\Lommeregner.exe
+C:\Users\HFGF\source\repos\Lommeregner\Lommeregner\obj\Debug\Lommeregner.pdb
